@@ -1,0 +1,7 @@
+# Sample configuration file
+
+development:
+  
+  # email configuration to send registration confirmation link
+  gmail_user_name: "username@gmail.com"
+  gmail_password: "password"
